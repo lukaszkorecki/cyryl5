@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+pkgr package . --env "HOME=$HOME"
